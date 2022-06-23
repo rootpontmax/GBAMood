@@ -53,3 +53,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+Code/.vscode/tasks.json
+Code/.vscode/targets.log
+Code/.vscode/settings.json
+Code/.vscode/launch.json
+Code/.vscode/dryrun.log
+Code/.vscode/configurationCache.log
+Code/.vscode/c_cpp_properties.json
