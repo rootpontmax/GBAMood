@@ -24,7 +24,7 @@ include $(DEVKITARM)/gba_rules
 TARGET		:= game
 BUILD		:= build
 SOURCES		:= asm source source/Core source/Game resources
-INCLUDES	:= include resources
+INCLUDES	:= resources
 DATA		:= data
 MUSIC		:=
 
